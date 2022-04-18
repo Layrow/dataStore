@@ -12,6 +12,6 @@ public class HelloGit {
     public static void main(String[] args) {
         String name ="git";
         System.out.println(name);
-        System.out.println(name+"hello");
+        System.out.println(name+"hello"+"dec");
     }
 }
