@@ -13,5 +13,6 @@ public class HelloGit {
         String name ="git";
         System.out.println(name);
         System.out.println(name+"hello"+"master");
+        System.out.println(name+"hello"+"dec");
     }
 }
