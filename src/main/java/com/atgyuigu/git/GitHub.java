@@ -10,5 +10,6 @@ public class GitHub {
     public static void main(String[] args) {
         System.out.println("add dev branch");
         System.out.println("他妈的等了好久踩上去你他妈的");
+        System.out.println("第三次推送,怎么才算成功呢");
     }
 }
