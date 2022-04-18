@@ -9,5 +9,6 @@ package com.atgyuigu.git;
 public class HotFix {
     public static void main(String[] args) {
         System.out.println("hotdev");
+        System.out.println("second");
     }
 }
