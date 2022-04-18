@@ -1,13 +1,13 @@
 package com.atgyuigu.git;
 
 /**
- * @ClassName: NewLa
+ * @ClassName: TestMerge
  * @Description:
  * @Author: 冯永辉
- * @Date: 2022/4/19 6:53
+ * @Date: 2022/4/19 7:03
  */
-public class NewLa {
+public class TestMerge {
     public static void main(String[] args) {
-        System.out.println("为啥那么慢呢你妈的");
+        System.out.println("merge");
     }
 }
